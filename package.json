@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chasenlehara/chrome-timeline-data-parser/issues"
   },
-  "homepage": "https://github.com/chasenlehara/chrome-timeline-data-parser#readme"
+  "homepage": "https://github.com/chasenlehara/chrome-timeline-data-parser#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6"
+  }
 }
