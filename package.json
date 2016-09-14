@@ -1,0 +1,19 @@
+{
+  "name": "chrome-timeline-data-parser",
+  "version": "0.0.1",
+  "description": "Parser for Chrome’s Timeline JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chasenlehara/chrome-timeline-data-parser.git"
+  },
+  "author": "Chasen Le Hara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chasenlehara/chrome-timeline-data-parser/issues"
+  },
+  "homepage": "https://github.com/chasenlehara/chrome-timeline-data-parser#readme"
+}
